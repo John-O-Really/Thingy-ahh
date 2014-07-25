@@ -1,0 +1,34 @@
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600' rel='stylesheet' type='text/css'>
+
+<h1> Jottl is down </h1>
+<P> Soz babes <br> Here's a calming cat:<p>
+<img src='http://i.minus.com/ixAbXtDvEAwb7.gif'>
+  
+<style>
+  h1{
+  text-align: center;
+  color: #fff;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+}
+
+p{
+  text-align: center;
+  color: #fff;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+
+body{
+  background: #912791
+}
+
+::selection {
+	background: #92278f;
+   color: #fff;
+	}
+::-moz-selection {
+	background: #2f2f2f;
+  color: #fff;
+}
+</style>
